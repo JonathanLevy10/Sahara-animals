@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>
 
-You can use the [editor on GitHub](https://github.com/JonathanLevy10/Sahara-animals/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanLevy10/Sahara-animals/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<head>Animals in the Sahara Desert by Jonathan Levy</head>
+<p </p>
+<p style="font-size:50px;">Fennec Fox</p>
+<img src="https://www.billabongzoo.com.au/sites/default/files/styles/home_header_xs/public/2018-12/IMG_6144_0.JPG
+"width="500" height="333">
+<p</p>
+<p> This is a Fennec Fox. It can survive in high temperature, low water enviornments and eats mainly insects, small mamals, and birds. </p>
+<p style="font-size:50px;">Hyrax</p>
+<p</p>
+<img src=https://animalimages.net/wp-content/gallery/rock-hyrax/Rock-Hyrax-028.jpg " width=500" "height=333"
+<p</p>
+<p>/p>>Hyraxes are mamals that are herbavors. They like huddling together and basking in the sun. In this picture the Hyrax does not look happy. </p>
+<p style="font-size:50px;">Lesser Egyptian Jerboa</p>
+<p</p>
+<img src=https://live.staticflickr.com/4065/4487654228_9fb5f45bdb_b.jpg " width=500" "height=333"
+<p</p>
+<p> These small bipedal mammal have elongate hindlimbs that let them jump up to 10 times thier hip height. They eat seeds and insects in the Sahara.</p>
+</body>
+</html>
